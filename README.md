@@ -32,5 +32,5 @@ This repository contains my completed work from the [Mastercard Cybersecurity Jo
 
 ### 🧠 About the Simulation
 
-This experience was hosted by Mastercard on Forage and simulates real-world challenges faced by cybersecurity teams working to strengthen enterprise-wide security awareness.
+This experience was hosted by Mastercard on Forage and simulates real-world challenges faced by cybersecurity teams working to strengthen enterprise-wide security awareness. All rights Reserve by Forge
 
